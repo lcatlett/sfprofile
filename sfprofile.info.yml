@@ -1,0 +1,13 @@
+name: sfprofile
+type: profile
+description: 'Acquia Cloud Site Factory platform base profile.'
+core: '8.x'
+distribution:
+  name: sfprofile
+base profile:
+  name: lightning
+
+dependencies:
+  - acsf
+
+

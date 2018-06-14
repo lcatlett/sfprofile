@@ -1,0 +1,14 @@
+{
+    "name": "acquia/sfprofile",
+    "description": "ACSF platform base profile, curated by Acquia",
+    "type": "drupal-profile",
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+       "drupal/acsf": "^2.47.0"
+    },
+    "require-dev": {
+    "drush/drush": "^9.3"
+    }
+}

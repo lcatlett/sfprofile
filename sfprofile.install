@@ -1,0 +1,18 @@
+<?php
+
+/**
+ * @file
+ * Install and uninstall functions for the sfprofile base profile.
+ */
+
+/**
+ * Implements hook_install().
+ *
+ * Perform actions to set up the site for sfprofile base profile.
+ *
+ * @see system_install()
+ */
+function sfprofile_install() {
+
+  }
+
